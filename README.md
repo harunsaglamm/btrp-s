@@ -1,8 +1,6 @@
-# React + Vite
+## Vite + React, Bootstrap 5.3.3 ve React Router DOM kullanılarak yazdığım sitede 'acikyesil.bursa.bel.tr' sitesinden aldığım verileri kullanarak basit bir websitesi oluşturdum.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Veriler çekilirken uuid kullanılmıştır
 
-Currently, two official plugins are available:
+## "npm i" , "npm install react-router-dom" , "npm i bootstrap@5.3.3" ve "npm run dev" komutlarını terminalde çalıştırdıktan sonra projemi inceleyebilirsiniz.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
